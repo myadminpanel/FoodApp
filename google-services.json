@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974935554437",
+    "firebase_url": "https://possible-coast-204010.firebaseio.com",
+    "project_id": "possible-coast-204010",
+    "storage_bucket": "possible-coast-204010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974935554437:android:a1426b503d3c7423",
+        "android_client_info": {
+          "package_name": "jajabar.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974935554437-qkolg9r52umglrkmpt5bk2pd0cbsk13q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jajabar.fooddelivery",
+            "certificate_hash": "19a2137cd18caceb78c458b99f27a0bcc5665e08"
+          }
+        },
+        {
+          "client_id": "974935554437-mtc2gq5mq11dq87cs76mtg2ofg7cjabm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyART9grifZCdPCToLGMcjbsXCz0iDDPvZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974935554437-vikbhrvn4ne35pvp531c5m1tldrtavdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

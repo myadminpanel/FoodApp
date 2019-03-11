@@ -1,0 +1,86 @@
+
+Version 1.0
+Food Delivery for Multiple restaurant with Delivery boy is android applicationwhere you can find restaurant  of  your  choice near you and within your cityuser is able to check if  restaurant  is  open or close ,and  cuisine, menu, item price and order food and get home delivery.
+
+Application features :
+
+1. Restaurant list nearby with open or close status
+2. Restaurant list by user rating
+3. Restaurant list on map
+4. Sort restaurant list by radius
+5. Sort restaurant list by City
+6. Search restaurant
+7. Search restaurant list by cuisine type
+8. restaurant information, 
+	Restaurant Name, 
+	Restaurant Image, 
+	Restaurant ratings by user
+	Restaurant address
+	Restaurant contact number
+	Opening and closing time
+	Food type served by restaurant 
+	Map location
+	Home delivery time
+	delivery type : Cash on delivery or Card on delivery
+	Restaurant description
+	Set as favourite restaurant
+9. Categorised restaurant menu
+10. Add to cart menu items
+11. Place order from cart
+12. Also change quantity from cart
+13. Use google map to share your location while place order, you don’t need to type address.
+14. but you can edit location retrieve from google map
+15. Complete detail of order 
+	Order time & delivery time,
+	Order amount & restaurant detail
+	Ordered item details
+16. total 5 Order status 
+	Order Placed
+	Order verified
+	Order Processing
+	Out for delivery
+	Delivered order
+17. Add Review to restaurant
+18. User order history
+19. Order detail with status & item details
+20. Favourite list of restaurant
+21. Share app
+22. Tearms & condition
+23. About us page
+24. Register user with profile picture
+25. User login
+26. Facebook login
+27. Google plus login
+28. Push notification with firebase
+29. Order status push notification 
+30. RTL support
+
+Delivery Boy Features :
+1. Login from same app
+2. Set presence 
+3. Check new Orders
+4. Order History
+5. Order detail with name, address, contact no & item detail
+6. Call customer or show route on map
+7. Picked order & deliver order
+8. Get notified on new order assigned 
+
+Admin Panel Features :
+1. Check list of restaurant - Add, Edit,
+2. Add cuisine type 
+3. Check Menu
+4. Add New city
+5. Check no of orders for restaurant
+6. Moderate app user
+7. Moderate User reviews
+8. Setup push notification from admin
+9. send push notification 
+
+Restaurant owner admin features :
+1. Separate admin panel for restaurant owner
+2. Add restaurant details
+3. add menu and menu items
+4. Check new orders and order details
+5. Add delivery boy
+6. Assign order to delivery boy
+7. on dashboard check order report
