@@ -1,0 +1,58 @@
+LocalHost : http://192.168.1.106/FoodDeliverySystem/
+Live : http://localhost/
+
+1) App User Register (referral_code is optional field)
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/userregister.php?fullname={}&email={}&phone_no={}&password={}&referral_code={}
+=> live URL http://localhost/api/userregister.php?fullname={}&email={}&phone_no={}&password={}&referral_code={}
+
+2) App user Login
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/userlogin.php?email={}&password={}
+=> live URL http://localhost/api/userlogin.php?email={}&password={}
+
+3) User Login with Google
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/userlogin.php?login_type=Google&fullname={}&email={}&phone_no={}&referral_code={}
+=> live URL http://localhost/api/userlogin.php?login_type=Google&fullname={}&email={}&phone_no={}&referral_code={}
+
+4) User Login with Facebook
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/userlogin.php?login_type=Facebook&fullname={}&email={}&phone_no={}&referral_code={}
+=> live URL http://localhost/api/userlogin.php?login_type=Facebook&fullname={}&email={}&phone_no={}&referral_code={}
+
+5) Restaurant list with Search via location
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/restaurantlist.php?timezone=asia/Kolkata&lat=21.00&lon=72.00&location=bolivia
+=> live URL http://localhost/api/restaurantlist.php?timezone=asia/Kolkata&lat=21.00&lon=72.00&location=bolivia
+
+6) Restaurant list with search via restaurant name and category
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/restaurantlist.php?timezone=asia/Kolkata&lat=21.00&lon=72.00&search={}
+=> live URL http://localhost/api/restaurantlist.php?timezone=asia/Kolkata&lat=21.00&lon=72.00&search={}
+
+7) Get Restaurant wise reviews
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/getrestaurant_review.php?res_id={}
+=> live URL http://localhost/api/getrestaurant_review.php?res_id={}
+
+8) Post and Publish Restaurant Review and ratting
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/postrestaurant_review.php?user_id={}&res_id={}&review_text={}&ratting={}
+=> live URL http://localhost/api/postrestaurant_review.php?user_id={}&res_id={}&review_text={}&ratting={}
+
+9)Get All Restaurant Category
+=> local URL http://192.168.1.106/FoodDeliverySystem/
+=> live URL http://localhost/
+
+10) Get All Restaurant Category
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/restaurant_category.php
+=> live URL http://localhost/api/restaurant_category.php
+
+11) Restaurant menu category list
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/restaurant_menu.php?res_id={}
+=> live URL http://localhost/api/restaurant_menu.php?res_id={}
+
+12) Restaurant Menu list
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/restaurant_submenu.php?menucategory_id={}
+=> live URL http://localhost/api/restaurant_submenu.php?menucategory_id={}
+
+13) Full Restaurant detail
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/getrestaurantdetail.php?res_id={}&lat={}&lon={}
+=> live URL http://localhost/api/getrestaurantdetail.php?res_id={}&lat={}&lon={}
+
+14) Book Order ( Get Method )
+=> local URL http://192.168.1.106/FoodDeliverySystem/api/bookorder.php?user_id={}&res_id={}&address={}&city={}&zipcode={}&food_desc={}&description={}&total_price={}
+=> live URL http://localhost/api/bookorder.php?user_id={}&res_id={}&address={}&city={}&zipcode={}&food_desc={}&description={}&total_price={}

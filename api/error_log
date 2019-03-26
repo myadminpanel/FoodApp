@@ -1,0 +1,313 @@
+[05-Sep-2018 12:16:19 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[05-Sep-2018 12:48:17 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[05-Sep-2018 14:07:33 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[05-Sep-2018 14:08:37 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[05-Sep-2018 14:10:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 27
+[05-Sep-2018 19:59:20 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[06-Sep-2018 06:33:00 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[06-Sep-2018 06:34:17 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[06-Sep-2018 18:06:19 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[06-Sep-2018 18:06:32 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[06-Sep-2018 16:06:14 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 7
+[06-Sep-2018 16:06:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 8
+[06-Sep-2018 16:06:18 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/token.php on line 16
+[06-Sep-2018 16:06:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/token.php on line 17
+[06-Sep-2018 16:06:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/token.php on line 32
+[06-Sep-2018 16:06:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 7
+[06-Sep-2018 16:06:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 8
+[06-Sep-2018 16:06:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 7
+[06-Sep-2018 16:06:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 8
+[06-Sep-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/token.php on line 16
+[06-Sep-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/token.php on line 17
+[06-Sep-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/token.php on line 32
+[06-Sep-2018 16:06:32 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 7
+[06-Sep-2018 16:06:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/restaurantlist.php on line 8
+[06-Sep-2018 16:06:45 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[06-Sep-2018 16:06:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[06-Sep-2018 16:06:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[06-Sep-2018 16:06:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/restaurant_byrate.php on line 7
+[06-Sep-2018 16:06:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/restaurant_byrate.php on line 8
+[07-Sep-2018 02:44:06 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[07-Sep-2018 02:44:10 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[07-Sep-2018 02:44:15 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[07-Sep-2018 20:25:39 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} ) ) * COS( RADIANS( `lat` ) ) *
+                COS( RADIANS( `lon` ) - RADIA' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:684
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(684): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/getrestaurantdetail.php(8): apicontroller->getrestaurantfulldetail('{}', '{}', '{}')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 684
+[07-Sep-2018 20:27:52 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} ) ) * COS( RADIANS( `lat` ) ) *
+                COS( RADIANS( `lon` ) - RADIA' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:684
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(684): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/getrestaurantdetail.php(8): apicontroller->getrestaurantfulldetail('{21}', '{}', '{}')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 684
+[07-Sep-2018 20:28:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '40.71992009999999} ) ) * COS( RADIANS( `lat` ) ) *
+                COS( RADIANS' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:684
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(684): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/getrestaurantdetail.php(8): apicontroller->getrestaurantfulldetail('{21}', '{40.71992009999...', '{-73.9970685000...')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 684
+[07-Sep-2018 20:28:36 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '40.71992009999999} ) ) * COS( RADIANS( `lat` ) ) *
+                COS( RADIANS' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:684
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(684): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/getrestaurantdetail.php(8): apicontroller->getrestaurantfulldetail('{21}', '{40.71992009999...', '{-73.9970685000...')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 684
+[09-Sep-2018 08:43:06 Asia/Magadan] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[09-Sep-2018 08:58:28 Asia/Magadan] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[09-Sep-2018 11:23:58 Asia/Magadan] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[10-Sep-2018 14:41:38 Asia/Magadan] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[13-Sep-2018 12:25:09 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'freaktem_food_delivery_system.fooddelivery_restaurant' doesn't exist' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('New York', '40.75921100', '-73.98463800', 'location', 0, '7', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[13-Sep-2018 14:17:45 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[13-Sep-2018 14:28:07 Asia/Kolkata] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[13-Sep-2018 18:24:55 America/Santiago] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/freaktem/public_html/fooddelivery/api/restaurant_city.php on line 17
+[13-Sep-2018 23:00:58 America/Santiago] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/freaktem/public_html/fooddelivery/api/restaurant_city.php on line 17
+[13-Sep-2018 23:01:32 America/Santiago] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/freaktem/public_html/fooddelivery/api/restaurant_city.php on line 17
+[13-Sep-2018 23:01:45 America/Santiago] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/freaktem/public_html/fooddelivery/api/restaurant_city.php on line 17
+[13-Sep-2018 23:01:57 America/Santiago] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/freaktem/public_html/fooddelivery/api/restaurant_city.php on line 17
+[14-Sep-2018 14:46:34 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '50.86507', '4.359498', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[14-Sep-2018 14:47:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '50.8650761', '4.3595056', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[18-Sep-2018 08:29:35 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[18-Sep-2018 08:29:42 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[18-Sep-2018 08:29:45 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[19-Sep-2018 12:15:17 Pacific/Fiji] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[20-Sep-2018 08:33:47 Pacific/Fiji] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[20-Sep-2018 08:34:08 Pacific/Fiji] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[21-Sep-2018 19:34:21 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:34:25 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:34:30 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:34:39 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:34:45 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:34:51 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:34:58 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 5, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:35:24 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[21-Sep-2018 19:35:32 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('??????', '0.0', '0.0', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[22-Sep-2018 05:22:54 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:22:56 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1203): User freaktem_sadmin already has more than 'max_user_connections' active connections in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 43
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 51
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/application/db_config.php on line 52
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 20
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 22
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 23
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 30
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 33
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 36
+[22-Sep-2018 05:23:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/freaktem/public_html/fooddelivery/api/bookorder.php on line 37
+[26-Sep-2018 22:35:19 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[26-Sep-2018 22:39:53 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[27-Sep-2018 22:25:55 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[27-Sep-2018 22:26:10 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[29-Sep-2018 14:56:31 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('?????', '35.3370677', '33.1990549', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[29-Sep-2018 14:56:47 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('?????', '35.3370735', '33.1990589', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[29-Sep-2018 14:57:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('?????', '35.337074', '33.1990622', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[29-Sep-2018 14:57:25 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('?????', '35.337074', '33.1990622', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[29-Sep-2018 14:57:33 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('?????', '35.337074', '33.1990622', 'location', 0, '5', '100000')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[30-Sep-2018 14:53:33 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[30-Sep-2018 14:53:39 America/Santiago] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[03-Oct-2018 18:24:50 Asia/Tehran] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[09-Oct-2018 17:13:03 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'repetition-operator operand invalid' from regexp' in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php:239
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php(239): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/api/restaurantlist.php(37): apicontroller->locatemerestarant('?????', '59.9419446', '30.2847919', 'location', 0, '5', '100')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/apicontroller.php on line 239
+[10-Oct-2018 18:09:45 Asia/Tehran] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[11-Oct-2018 19:39:51 Asia/Tehran] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19
+[12-Oct-2018 15:31:20 Asia/Tehran] PHP Warning:  DateTime::modify(): Failed to parse time string (+ minutes) at position 0 (+): Unexpected character in /home/freaktem/public_html/fooddelivery/api/order_details.php on line 19

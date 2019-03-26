@@ -1,0 +1,9 @@
+[23-Aug-2018 05:34:10 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/assign_order.php on line 2
+[31-Aug-2018 08:52:08 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/moredetail.php on line 3
+[08-Sep-2018 10:46:29 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/editboy.php on line 2
+[09-Sep-2018 09:55:39 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/editmenucategory.php on line 2
+[09-Sep-2018 09:55:58 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/editsubmenucategory.php on line 2
+[09-Sep-2018 09:56:43 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/editsubcategory.php on line 2
+[10-Sep-2018 06:07:06 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/moredetail.php on line 3
+[17-Sep-2018 06:05:19 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/editsubmenucategory.php on line 2
+[17-Sep-2018 06:09:15 Etc/GMT] PHP Notice:  Undefined index: querystring in /home/freaktem/public_html/fooddelivery/ajax/editmenucategory.php on line 2

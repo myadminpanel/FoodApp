@@ -1,0 +1,46 @@
+[06-Sep-2018 09:38:34 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[06-Sep-2018 09:38:34 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[06-Sep-2018 12:15:42 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[06-Sep-2018 12:15:42 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[06-Sep-2018 18:31:28 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Special Cheesecake%' ORDER BY id DESC' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/restaurant.php:313
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/restaurant.php(313): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/dashboard.php(111): dashboard->getrestaurant('Eileen's Specia...', 'searchtotal', 'none', 'none')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/restaurant.php on line 313
+[06-Sep-2018 17:38:54 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[06-Sep-2018 17:38:54 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[09-Sep-2018 09:58:06 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[09-Sep-2018 09:58:06 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[10-Sep-2018 06:05:07 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[10-Sep-2018 06:05:07 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[10-Sep-2018 16:13:02 Asia/Magadan] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's%' ORDER BY id DESC' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/restaurant.php:313
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/restaurant.php(313): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/dashboard.php(111): dashboard->getrestaurant('Eileen's', 'searchtotal', 'none', 'none')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/restaurant.php on line 313
+[10-Sep-2018 07:24:58 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[10-Sep-2018 07:24:58 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[11-Sep-2018 11:15:38 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[11-Sep-2018 11:15:38 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[11-Sep-2018 21:38:06 Asia/Magadan] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Pizza%' ORDER BY id DESC' at line 1' in /home/freaktem/public_html/fooddelivery/controllers/restaurant.php:313
+Stack trace:
+#0 /home/freaktem/public_html/fooddelivery/controllers/restaurant.php(313): PDOStatement->execute()
+#1 /home/freaktem/public_html/fooddelivery/dashboard.php(111): dashboard->getrestaurant('Juliana's Pizza', 'searchtotal', 'none', 'none')
+#2 {main}
+  thrown in /home/freaktem/public_html/fooddelivery/controllers/restaurant.php on line 313
+[13-Sep-2018 14:17:27 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freaktem/public_html/fooddelivery/webservice.php on line 3
+[13-Sep-2018 14:17:27 Etc/GMT] PHP Notice:  Undefined index: role in /home/freaktem/public_html/fooddelivery/webservice.php on line 4
+[13-Sep-2018 22:28:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/freaktem/public_html/fooddelivery/index.php on line 13
+[18-Sep-2018 06:34:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/foodorder.php on line 113
+[18-Sep-2018 06:34:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/reviews.php on line 136
+[18-Sep-2018 08:58:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/foodorder.php on line 113
+[20-Sep-2018 15:14:22 Pacific/Fiji] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/editrestaurant.php on line 190
+[20-Sep-2018 15:14:34 Pacific/Fiji] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/foodorder.php on line 113
+[21-Sep-2018 21:48:11 Pacific/Fiji] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/foodorder.php on line 113
+[21-Sep-2018 21:48:23 Pacific/Fiji] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/reviews.php on line 136
+[22-Sep-2018 18:30:06 Europe/Warsaw] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/reviews.php on line 136
+[22-Sep-2018 18:30:32 Europe/Warsaw] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/reviews.php on line 136
+[22-Sep-2018 18:30:51 Europe/Warsaw] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/reviews.php on line 136
+[22-Sep-2018 18:32:41 Europe/Warsaw] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktem/public_html/fooddelivery/reviews.php on line 136
