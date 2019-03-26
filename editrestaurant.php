@@ -26,7 +26,7 @@ if(isset($_REQUEST['editrestaurant']))
         $image_info = getimagesize($_FILES['file']['tmp_name']);
         $width = $image_info[0];
         $height = $image_info[1];
-        if($width == 800 && $height == 500)
+        if($width <= 800 && $height <= 500)
         {
             $path = $_FILES['file']['name'];
             $ext = pathinfo($path, PATHINFO_EXTENSION);
@@ -330,7 +330,7 @@ if(isset($_REQUEST['editrestaurant']))
             img = new Image();
             img.onload = function() {
                 // alert(this.width + " " + this.height);
-                if(this.width == 800 && this.height == 500)
+                if(this.width <= 800 && this.height <= 500)
                 {
                     $('#addresto').prop("disabled", false);
                     document.getElementById("error").innerHTML=""

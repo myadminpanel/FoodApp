@@ -3,7 +3,7 @@ session_start();
 @$uid = $_SESSION['uid'];
 @$role = $_SESSION['role'];
 //print_r($role); exit();
-if($role !='1')
+if($role !='1' )
 {
     echo "<script>window.location='index.php'</script>";
     session_destroy();
