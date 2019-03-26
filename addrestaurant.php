@@ -306,7 +306,7 @@ if(isset($_REQUEST['addrestaurant']))
             img = new Image();
             img.onload = function() {
                 // alert(this.width + " " + this.height);
-                if(this.width == 800 && this.height == 500)
+                if(this.width <= 800 && this.height <= 500)
                 {
                     $('#addresto').prop("disabled", false);
                     document.getElementById("error").innerHTML="";
